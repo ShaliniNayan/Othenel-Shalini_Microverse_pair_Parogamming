@@ -1,0 +1,10 @@
+#img-div {
+  display: grid;
+  place-items: center;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
